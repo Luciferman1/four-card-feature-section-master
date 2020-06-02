@@ -1,0 +1,62 @@
+body {
+	padding: 2.5% 15%;
+	background-color: #FAFAFA;
+}
+h2 {
+  font-family: "Montserrat-Thin 100";
+  text-align: center;
+  color: #ff1e56;
+}
+p { 
+  text-align: center;
+  color: #75daad;
+}
+.Supervisor{
+	position: absolute;
+	width: 340px;
+	height: 240px;
+    left: 15%;
+    top: 44%; 
+	background-color: #FFFFFF;
+	color: #be79df;
+	border-radius: 10px;
+	border-top: solid #42D4D3;
+}
+.teambuilder {
+	position: absolute;
+	width: 340px;
+	height: 240px;
+	left: 40%;
+	top: 30%;
+	background-color: #FFFFFF;
+	color: #be79df;
+	border-radius: 10px;
+	border-top: solid #EC5355;
+}
+.Karma {
+	position: absolute;
+	width: 340px;
+	height: 240px;
+    left: 40%;
+    top: 68%;
+    background-color: #FFFFFF;
+    color: #be79df;
+    border-radius: 10px;
+    border-top: solid #F9A73B;
+}
+.Calculator {
+	position: relative;
+	width: 340px;
+	height: 240px;
+	left: 71%;
+	top: 150px;
+	background-color: #FFFFFF;
+	color: #be79df;
+	border-radius: 10px;
+	border-top: solid #529EF2;
+}
+
+.attribution {
+	padding:  30%;
+	color: #000;
+}
